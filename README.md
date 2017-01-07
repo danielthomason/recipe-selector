@@ -1,11 +1,9 @@
 # recipe-selector
 A program to suggest and select recipes based on some user inputs
 
-The data for this project comes from https://github.com/fictivekin/openrecipes
+The data for this project comes from https://github.com/fictivekin/openrecipes – thanks fictivekin!
 
-This is a project I completed as part of a commitment to solve one problem per week
-
-You can read about it here: http://52problems.com
+This is a project I completed as part of a commitment to solve one problem per week; you can read about it here: http://52problems.com.
 
 Still to do:
 * Currently there is no rejection of ingredients that contain another ingredient but aren't identical, e.g. sweet potato ≠ potato
