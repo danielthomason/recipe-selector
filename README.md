@@ -2,7 +2,9 @@
 A program to suggest and select recipes based on some user inputs
 
 The data for this project comes from https://github.com/fictivekin/openrecipes
+
 This is a project I completed as part of a commitment to solve one problem per week
+
 You can read about it here: http://52problems.com
 
 Still to do:
